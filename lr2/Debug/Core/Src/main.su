@@ -1,0 +1,8 @@
+main.c:83:6:turn_off_LED	16	static
+main.c:93:5:set_digit	40	static
+main.c:127:5:check_red_button	16	static
+main.c:138:5:check_blue_button	16	static
+main.c:156:5:main	8	static
+main.c:210:6:SystemClock_Config	88	static
+main.c:250:13:MX_GPIO_Init	48	static
+main.c:319:6:Error_Handler	4	static,ignoring_inline_asm
